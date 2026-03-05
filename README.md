@@ -89,11 +89,6 @@ fitness-tracker-api/
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-- [Express Documentation](https://expressjs.com/)
-- [Angular Documentation](https://angular.io/docs)
-- [Mongoose Documentation](https://mongoosejs.com/)
-- [JWT Documentation](https://jwt.io/introduction)
+
+
